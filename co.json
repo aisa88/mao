@@ -1,7 +1,7 @@
-[
-    {
-        "action": "talk",
-        "voiceName": "Russell",
-        "text":"Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success Test Success "
-    }
-]
+[{
+  "action": "connect",
+  "endpoint": [{
+    "type": "phone",
+    "number": "15878135146"
+  }]
+}]
